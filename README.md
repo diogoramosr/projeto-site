@@ -5,13 +5,14 @@
 <p>Projeto Desenvolvido em grupo para colocar em prática as técnicas aprendida em Desenvolvimento para Internet III, referente a grade curricular do Colégio Técnico de Campinas - Desenvolvimento de Sistemas.</p>
 <p>Foi ultilizado conceitos aprendidos em aula, tais como verificação de usúario, criação de API em C# - NET Framework, uso de rotas dinâmicas.</p>
 
-![index](https://user-images.githubusercontent.com/100318805/205518001-5cc2722a-1121-4ead-9d02-550e1ca2df61.jpg)
+<div align="center">
 
+  ![index](https://user-images.githubusercontent.com/100318805/205518001-5cc2722a-1121-4ead-9d02-550e1ca2df61.jpg)
+  
+  ![produto](https://user-images.githubusercontent.com/100318805/205518107-2074ee28-74a1-402e-8605-b61df7cd5635.png)
+</div>
 
-
-
-
-## Desenvolvedores/Donos:
+## Desenvolvedores:
 
 * **Diogo Rodrigues** </br>
 <a href = "https://github.com/diogoramosr"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
