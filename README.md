@@ -3,7 +3,7 @@
 <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
 
 <p>Projeto Desenvolvido em grupo para colocar em prática as técnicas aprendida em Desenvolvimento para Internet III, referente a grade curricular do Colégio Técnico de Campinas - Desenvolvimento de Sistemas.</p>
-<p>Foi ultilizado conceitos aprendidos em aula, tais como verificação de usúario, criação de API em C# - NET Framework, uso de rotas dinâmicas.</p>
+<p>Foi ultilizado conceitos aprendidos em aula, tais como verificação de usúario, criação de API em C# - NET Framework, uso de rotas dinâmicas e informaçoes em local storage.</p>
 
 <div align="center">
 
